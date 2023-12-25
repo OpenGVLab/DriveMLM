@@ -28,10 +28,10 @@ This project is released under the [Apache 2.0 license](LICENSE).
 If you find this project useful in your research, please consider cite:
 
 ```BibTeX
-@article{anonymousdrivemlm,
-  author    = {Anonymous},
-  title     = {DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving},
-  journal   = {Under Review},
-  year      = {2023},
+@article{wang2023drivemlm,
+  title={DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving},
+  author={Wang, Wenhai and Xie, Jiangwei and Hu, ChuanYang and Zou, Haoming and Fan, Jianan and Tong, Wenwen and Wen, Yang and Wu, Silei and Deng, Hanming and Li, Zhiqi and others},
+  journal={arXiv preprint arXiv:2312.09245},
+  year={2023}
 }
 ```
